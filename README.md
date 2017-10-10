@@ -1,4 +1,13 @@
-# challenge
-# création d'un fichier avec la commande: touch mon_fichier
-# ajout de ce fichier à l'index Git à l'aide de la commande: git add nomDeVotreFichier.extension.
-# ensuite: git commit -m "Message pour le commit ", afin d'expliquer les modifications apporter
+sélectionnés# Template pour : Quetes  PHP Cookies & Sessions
+
+Ce Template html va te permettre de réaliser ta quête sur la gestion des cookies et des sessions avec PHP.
+
+Sont inclus :
+
+* la page de connexion,
+* la page des produits disponibles a l'achat,
+* la page panier, affichant à partir des cookies les produits sélectionnés par l'utilisateur.
+
+Tu n'as que du script PHP à fournir !
+
+Après, si l'envie te prend de refondre le CSS, nous ne ferons rien pour t'en empêcher !
